@@ -1,0 +1,12 @@
+.gradle/
+**/build/
+local.properties
+*.key
+*.log
+.env*
+.idea/
+*.iml
+*.apk
+/SHA256SUMS.txt
+/VALIDATION.md
+/validation/
